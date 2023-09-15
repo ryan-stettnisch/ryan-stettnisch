@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Website**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **ryanstetty@gmail.com**
 
